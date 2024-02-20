@@ -9,17 +9,17 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Speech and Language processing Lab (SLPL)</p>
+    <p>Sharif University of Technology</p>
+    <p>Tehran, Iran</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Master's student in the <a href='https://ce.sharif.edu/'>Computer Engineering Department</a> of the <a href='https://en.sharif.edu/'>Sharif University of Technology(SUT)</a>, where I serve as a Research Assistant at the <a href='http://slpl.ce.sharif.edu/'>Speech and Language processing Lab</a> under the supervision of <a href='https://https://scholar.google.com/citations?user=ebEhWZwAAAAJ&hl=en&oi=ao'>Prof. Sameti</a>.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
