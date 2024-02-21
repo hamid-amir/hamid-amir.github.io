@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: img/33.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Speech and Language processing Lab (SLPL)</p>
-    <p>Sharif University of Technology</p>
+    <p>Sharif University</p>
     <p>Tehran, Iran</p>
 
 news: true # includes a list of news items
