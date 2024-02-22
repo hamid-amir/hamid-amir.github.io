@@ -15,14 +15,14 @@
       institution: Sharif University of Technology, Tehran, Iran
       year: 2022-2025
       description:
-      - Thesis Title: Transformers interpretability on natural language tasks
+        - Thesis Title. Transformers interpretability on natural language tasks
 
 
     - title: B.Sc.
       institution: Tehran Polytechnic, Tehran, Iran
       year: 2017-2021
       description:
-      - Thesis Title: Gait phase recognition using machine learning algorithms
+        - Thesis Title. Gait phase recognition using machine learning algorithms
 
 - title: Experience
   type: time_table
@@ -39,17 +39,10 @@
       description:
         - Proposing an imagination inspired module to enhance the performance of multi-modal LLMs on text only tasks.
 
-    - title: Research Assistant
-      institution: Sharif University of Technology, Tehran, Iran
-      year: 2022-now
-      description:
-        - 
-
-
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="">Adversarial Persain QA</a>
+    - title: <a href="https://github.com/HamidrezaAmirzadeh/Adversarial-QA">Adversarial Persian QA</a>
       year: 2022
       description: Robustness Investigation of Persian Transformer-based Retrival Question Answering models and constructing some common adversarial attacks on them.
 
@@ -58,7 +51,7 @@
   contents:
     - year: 2017
       items:
-        - Ranked 256th in top 0.5% in the National Entrance Exam for B.Sc. of Iran, among more than 148,000 students in the field of Mathematics and Physics
+        - Ranked 256th (top 0.5%) in the National Entrance Exam for B.Sc. of Iran, among more than 148,000 students in the field of Mathematics and Physics
         
     - year: 2022
       items:
@@ -66,7 +59,7 @@
         
     - year: 2023
       items:
-        - Participating as reviewer in the peer review process for International Conference of Mechatronics and Robotics (ICRoM)
+        - Participating as reviewer in the peer review process for <a href="https://icrom.ir/">International Conference of Mechatronics and Robotics (ICRoM) </a>
 
 - title: Academic Interests
   type: nested_list
