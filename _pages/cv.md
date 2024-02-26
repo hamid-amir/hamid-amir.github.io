@@ -1,11 +1,13 @@
 ---
-layout: cv
+layout: archive
+title: "CV"
 permalink: /cv/
-title: CV
-nav: true
-nav_order: 5
-cv_pdf: 
-#description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
+
+Here is my [Curriculum Vitae](/assets/pdf/CV_Amirzadeh_26Feb_2024.pdf){:target="_blank"}.
+<embed src="/assets/pdf/CV_Amirzadeh_26Feb_2024.pdf" width="100%" height="100%" type="application/pdf">
