@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/HamidrezaAmirzadeh/HamidrezaAmirzadeh.github.io/sitemap.xml
+Sitemap: https://hamid-amir.github.io/sitemap.xml
