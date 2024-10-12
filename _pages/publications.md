@@ -13,3 +13,18 @@ nav_order: 2
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
+
+
+{% for publication in site.publications %}
+<div class="publication-item">
+  {% if publication.thumbnail %}
+  <img src="{{ publication.thumbnail }}" alt="Thumbnail for {{ publication.title }}" class="thumbnail">
+  {% endif %}
+  <div class="publication-info">
+    <strong>{{ publication.title }}</strong><br>
+    <span>{{ publication.author }}</span><br>
+    <span>{{ publication.journal }} ({{ publication.year }})</span><br>
+    <a href="{{ publication.url }}">Read more</a>
+  </div>
+</div>
+{% endfor %}
