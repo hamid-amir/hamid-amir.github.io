@@ -73,7 +73,7 @@
         "endDate": "2021-09",
         "score": "1.0",
         "courses": ["Control Engineering", "Dynamical Systems", "Signal Processing"]
-      },
+      }
     ],
     "publications": [
       {
@@ -112,7 +112,7 @@
         "icon": "fa-solid fa-shield-alt",
         "keywords": [
           "Mechanistic Interpretability",
-          "Transformer Models",
+          "Transformer Models"
         ]
       },
       {
@@ -151,7 +151,7 @@
         "language": "English",
         "fluency": "Fluent",
         "icon": "fa-solid fa-flag"
-      },
+      }
     ],
     "interests": [
       {
@@ -173,6 +173,6 @@
           "Reading Fictional books, favourite one: The Razor's Edge, by William Somerset Maugham",
           "Playing Video Games, favourite one: Red Dead Redemption II"
         ]
-      },
-    ],
+      }
+    ]
 }
