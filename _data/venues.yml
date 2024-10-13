@@ -4,3 +4,27 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+
+
+# abbr={EMNLP},
+# abbr={COLING},
+# abbr={SemEval},
+# abbr={arXiv},
+
+"EMNLP":
+url: https://2024.emnlp.org/ 
+# color: "#b31b1b"
+
+"COLING":
+  url: https://coling2025.org/ 
+  # color: "#b31b1b"
+
+"SemEval":
+  url: https://semeval.github.io/
+  # color: "#b31b1b"
+
+"arXiv":
+  url: https://arxiv.org/
+  # color: "#b31b1b"
+

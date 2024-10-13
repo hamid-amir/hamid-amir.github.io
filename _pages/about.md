@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-### Hello! I'm Hamidreza 😊
+### Hello! I'm Hamidreza 💡🤖📚
 
 I am a Master's student in the [Computer Engineering Department](https://ce.sharif.edu/) at [Sharif University of Technology (SUT)](https://en.sharif.edu/), where I am dedicated to enhancing AI safety through mechanistic interpretability. My research focuses on improving the transparency and interpretability of transformer language models, supporting the broader objective of achieving AI alignment.
 
